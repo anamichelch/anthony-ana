@@ -2,3 +2,9 @@
     max-width: 80%;
     height: auto;
 }
+
+#img-div {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
